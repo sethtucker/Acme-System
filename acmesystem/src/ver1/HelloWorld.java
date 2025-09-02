@@ -13,4 +13,7 @@ public class HelloWorld {
 		System.out.println(Msg);
 	}
 	
+	public static void whatFor(String input) {
+	    System.out.println(input + ", what for?");
+	}
 }
